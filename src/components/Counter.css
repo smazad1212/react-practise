@@ -1,0 +1,17 @@
+.counter-btn {
+    background-color: darkcyan;
+    color: white;
+    padding: 0.6rem 1rem;
+    border: 0;
+    border-radius: 4px;
+    box-shadow: 0px 1px 4px 0px #5a8884;
+    width: 7rem;
+}
+.counter-btn:hover {
+    background-color: #00a0a0;
+    cursor: pointer;
+}
+.counter-btn:focus {
+    font-weight: 900;
+    outline: none;
+}
